@@ -84,6 +84,12 @@ footer {
   width: 95%;
 }
 
+main {
+  display: flex;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
 .task-list-wrapper {
   flex: 1;
   margin: 0 20px 20px;
